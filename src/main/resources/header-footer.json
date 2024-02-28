@@ -1,0 +1,29 @@
+{
+  "header": [
+    {
+      "Company": {
+        "1": "About Us",
+        "2": "Our Goal",
+        "4": "Contact Us"
+      },
+      "Achivements": {},
+      "header3": {
+        "1": "one",
+        "2": "one",
+        "3": "MyCity",
+        "4": "MyCOuntry"
+      },
+      "Join Us": {
+        "1": "Login",
+        "2": "Register"
+      },
+      "Help": {}
+    }
+  ],
+  "footer": [
+    "About Us",
+    "Contact Us",
+    "Our Goal",
+    "Our Achivements"
+  ]
+}
